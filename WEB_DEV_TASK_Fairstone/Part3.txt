@@ -1,0 +1,4 @@
+The design of the homepage could be improved by resizing and aligning images, text and buttons to ensure a clean interface that is easy to read and understand. 
+All pages would have the same theme colour and design for consistency.
+If there was to be a content display page, there would need to be a new page created for 'view all products'.
+This could be done using a product card grid system with links to each product and desctiption and additional info.
